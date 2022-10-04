@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/smokeystack_" target="blank"><img src="https://img.shields.io/twitter/follow/smokeystack_?logo=twitter&style=for-the-badge" alt="smokeystack_" /></a> </p>
 
+- 🌱 I’m currently learning **C++, React, Vue**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SmokeyStack?tab=repositories](https://github.com/SmokeyStack?tab=repositories)
+
+- 📝 I occasionally write articles on [https://smokeystack.github.io/blog/](https://smokeystack.github.io/blog/)
+
+- 📫 How to reach me: **[My links](https://smokeystack.github.io/about/links.html)**
+
 ### 🔭 I’m currently working on
 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
@@ -28,14 +36,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [vinitshahdeo/HBD](https://github.com/vinitshahdeo/HBD) - :birthday: Coder&#39;s way of wishing Happy Birthday! :cake:  :confetti_ball: :tada: :balloon:
-
-- 🌱 I’m currently learning **C++, React, Vue**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SmokeyStack?tab=repositories](https://github.com/SmokeyStack?tab=repositories)
-
-- 📝 I occasionally write articles on [https://smokeystack.github.io/blog/](https://smokeystack.github.io/blog/)
-
-- 📫 How to reach me: **[My links](https://smokeystack.github.io/about/links.html)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
