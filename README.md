@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
 - [peter-kish/gloot](https://github.com/peter-kish/gloot) - A universal inventory system for the Godot game engine.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [drtshock/Potato](https://github.com/drtshock/Potato) - If you fork this then you can say you forked a potato.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
