@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Mostly working json output](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/4) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
+- [Fix long](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/3) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Created spoiler generation](https://github.com/Bedrock-OSS/bedrock-harvester/pull/17) on [Bedrock-OSS/bedrock-harvester](https://github.com/Bedrock-OSS/bedrock-harvester)
 - [Fixed most dead links and spelling](https://github.com/BedrockLauncher/BedrockLauncher/pull/75) on [BedrockLauncher/BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher)
 - [Fixed Progress section](https://github.com/Bedrock-OSS/bedrock-wiki/pull/105) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [Formatted the Additional Notes section.](https://github.com/Bedrock-OSS/bedrock-wiki/pull/104) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [FIxed title](https://github.com/Bedrock-OSS/bedrock-wiki/pull/77) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
