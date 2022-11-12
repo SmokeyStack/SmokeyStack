@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
+- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - 
-- [SmokeyStack/fallen-kingdom-wiki](https://github.com/SmokeyStack/fallen-kingdom-wiki) - Wiki for the Fallen Kingdom add-on created by @SmokeyStack
 
 ### 🔨 My recent Pull Requests
 
@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
 - [peter-kish/gloot](https://github.com/peter-kish/gloot) - A universal inventory system for the Godot game engine.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C&#43;&#43; with minimal dependencies
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
