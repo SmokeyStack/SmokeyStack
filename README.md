@@ -16,10 +16,10 @@
 ### 🔭 I’m currently working on
 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
+- [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher) - My own Minecraft Version Switcher
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
-- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
 
 ### 🔨 My recent Pull Requests
 
@@ -40,6 +40,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smokeystack_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smokeystack_" height="30" width="40" /></a>
+<a href="https://mastodon.gamedev.place/@SmokeyStack" target="blank"><img align="center" src="https://smokeystack.github.io/assets/images/mastodon.svg" alt="smokeystack_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
