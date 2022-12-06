@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - 
+- [SmokeyStack/FallenKingdomAddon](https://github.com/SmokeyStack/FallenKingdomAddon) - Repository for the Fallen Kingdom add-on created by @SmokeyStack
 - [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher) - My own Minecraft Version Switcher
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
 
 ### 🔨 My recent Pull Requests
 
+- [Fixed thread problem](https://github.com/SmokeyStack/SmokeyVersionSwitcher/pull/1) on [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher)
 - [Mostly working json output](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/4) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Fix long](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/3) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Created spoiler generation](https://github.com/Bedrock-OSS/bedrock-harvester/pull/17) on [Bedrock-OSS/bedrock-harvester](https://github.com/Bedrock-OSS/bedrock-harvester)
 - [Fixed most dead links and spelling](https://github.com/BedrockLauncher/BedrockLauncher/pull/75) on [BedrockLauncher/BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher)
-- [Fixed Progress section](https://github.com/Bedrock-OSS/bedrock-wiki/pull/105) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
