@@ -15,10 +15,10 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher) - My own Minecraft Version Switcher
 
 ### 🔨 My recent Pull Requests
