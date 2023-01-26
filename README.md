@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Formatted the page to meet wiki style guide](https://github.com/BedrockCommands/bedrockcommands.github.io/pull/1) on [BedrockCommands/bedrockcommands.github.io](https://github.com/BedrockCommands/bedrockcommands.github.io)
 - [Finally works](https://github.com/SmokeyStack/adk/pull/4) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Fixed filter not running](https://github.com/SmokeyStack/adk/pull/3) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Reworked filter structure](https://github.com/SmokeyStack/adk/pull/2) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Turned project into regolith filter](https://github.com/SmokeyStack/adk/pull/1) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Fixed thread problem](https://github.com/SmokeyStack/SmokeyVersionSwitcher/pull/1) on [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher)
 
 ### ⭐ Recent Stars
 
