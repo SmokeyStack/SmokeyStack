@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
 - [SmokeyStack/SmokeyVersionSwitcher](https://github.com/SmokeyStack/SmokeyVersionSwitcher) - My own Minecraft Version Switcher
 
 ### 🔨 My recent Pull Requests
 
+- [Manifest](https://github.com/SmokeyStack/adk/pull/6) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
+- [Fixed tests](https://github.com/SmokeyStack/adk/pull/5) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Formatted the page to meet wiki style guide](https://github.com/BedrockCommands/bedrockcommands.github.io/pull/1) on [BedrockCommands/bedrockcommands.github.io](https://github.com/BedrockCommands/bedrockcommands.github.io)
 - [Finally works](https://github.com/SmokeyStack/adk/pull/4) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Fixed filter not running](https://github.com/SmokeyStack/adk/pull/3) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Reworked filter structure](https://github.com/SmokeyStack/adk/pull/2) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Turned project into regolith filter](https://github.com/SmokeyStack/adk/pull/1) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
