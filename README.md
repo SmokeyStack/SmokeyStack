@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
+- [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
 - [ScriptAPIOSS/setup-bds-action](https://github.com/ScriptAPIOSS/setup-bds-action) - 
 - [MinecraftBedrockArchiver/Archiver](https://github.com/MinecraftBedrockArchiver/Archiver) - This tool automatically archives the latest W10/Xbox beta, release and preview appx files from the store and other sources periodically.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
-- [peter-kish/gloot](https://github.com/peter-kish/gloot) - A universal inventory system for the Godot game engine.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
