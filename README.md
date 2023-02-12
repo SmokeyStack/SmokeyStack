@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/add-on-ci](https://github.com/SmokeyStack/add-on-ci) - 
+- [SmokeyStack/smokey_bedrock_world](https://github.com/SmokeyStack/smokey_bedrock_world) - 
 - [SmokeyStack/FallenKingdomAddon](https://github.com/SmokeyStack/FallenKingdomAddon) - Repository for the Fallen Kingdom add-on created by @SmokeyStack
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 
 ### 🔨 My recent Pull Requests
 
