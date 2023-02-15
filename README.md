@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/smokey_gen](https://github.com/SmokeyStack/smokey_gen) - 
+- [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
+- [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - 
+- [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
-- [SmokeyStack/FallenKingdomAddon](https://github.com/SmokeyStack/FallenKingdomAddon) - Repository for the Fallen Kingdom add-on created by @SmokeyStack
-- [SmokeyStack/add-on-ci](https://github.com/SmokeyStack/add-on-ci) - 
 
 ### 🔨 My recent Pull Requests
 
