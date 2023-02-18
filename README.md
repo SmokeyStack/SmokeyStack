@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
 - [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - 
 - [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
-- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 
 ### 🔨 My recent Pull Requests
 
@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
 - [engineerd/configurator](https://github.com/engineerd/configurator) - Cross-platform GitHub Action to download, extract, and add to path statically compiled tools
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
-- [ScriptAPIOSS/setup-bds-action](https://github.com/ScriptAPIOSS/setup-bds-action) - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
