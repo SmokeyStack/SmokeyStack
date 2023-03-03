@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
 - [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 
 ### 🔨 My recent Pull Requests
 
+- [Refactored the codebase!](https://github.com/SmokeyStack/adk/pull/21) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Changed dependencies](https://github.com/SmokeyStack/adk/pull/20) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added spdlog as a logger](https://github.com/SmokeyStack/adk/pull/19) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Block Tests](https://github.com/SmokeyStack/adk/pull/18) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Recipe](https://github.com/SmokeyStack/adk/pull/17) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Item](https://github.com/SmokeyStack/adk/pull/16) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
