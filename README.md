@@ -15,9 +15,9 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
 - [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 
@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [Mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) - Minecraft Editor is in early development. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock.
 - [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
 - [engineerd/configurator](https://github.com/engineerd/configurator) - Cross-platform GitHub Action to download, extract, and add to path statically compiled tools
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-- [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
