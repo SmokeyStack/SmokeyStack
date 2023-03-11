@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [Mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) - Minecraft Editor is in early development. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock.
 - [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
 - [engineerd/configurator](https://github.com/engineerd/configurator) - Cross-platform GitHub Action to download, extract, and add to path statically compiled tools
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
