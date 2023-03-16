@@ -16,18 +16,18 @@
 ### 🔭 I’m currently working on
 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [SmokeyStack/temp](https://github.com/SmokeyStack/temp) - 
+- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
-- [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 
 ### 🔨 My recent Pull Requests
 
+- [Added Vanilla Structures](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/1) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Documentation](https://github.com/SmokeyStack/adk/pull/24) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Tests](https://github.com/SmokeyStack/adk/pull/23) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactor v2](https://github.com/SmokeyStack/adk/pull/22) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactored the codebase!](https://github.com/SmokeyStack/adk/pull/21) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Changed dependencies](https://github.com/SmokeyStack/adk/pull/20) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
