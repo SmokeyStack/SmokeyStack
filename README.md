@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [SmokeyStack/temp](https://github.com/SmokeyStack/temp) - 
 - [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
+- [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
+- [SmokeyStack/temp](https://github.com/SmokeyStack/temp) - 
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 
 ### 🔨 My recent Pull Requests
 
+- [Offsets and loot tables](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/3) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
+- [Block Data](https://github.com/JaylyDev/nbt-to-mcstructure/pull/3) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
+- [Hotfix for structures!](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/2) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
+- [Updated types](https://github.com/JaylyDev/nbt-to-mcstructure/pull/1) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
 - [Added Vanilla Structures](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/1) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
-- [Documentation](https://github.com/SmokeyStack/adk/pull/24) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Tests](https://github.com/SmokeyStack/adk/pull/23) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Refactor v2](https://github.com/SmokeyStack/adk/pull/22) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Refactored the codebase!](https://github.com/SmokeyStack/adk/pull/21) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
