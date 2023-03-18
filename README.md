@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
 - [SmokeyStack/temp](https://github.com/SmokeyStack/temp) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 
 ### 🔨 My recent Pull Requests
 
