@@ -16,9 +16,9 @@
 ### 🔭 I’m currently working on
 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
 - [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
-- [SmokeyStack/temp](https://github.com/SmokeyStack/temp) - 
+- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 
 ### 🔨 My recent Pull Requests
