@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
-- [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
-- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
 
 ### 🔨 My recent Pull Requests
 
+- [Updated structures to use block data](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/4) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Offsets and loot tables](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/3) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Block Data](https://github.com/JaylyDev/nbt-to-mcstructure/pull/3) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
 - [Hotfix for structures!](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/2) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Updated types](https://github.com/JaylyDev/nbt-to-mcstructure/pull/1) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
-- [Added Vanilla Structures](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/1) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 
 ### ⭐ Recent Stars
 
