@@ -15,9 +15,9 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
-- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
 
