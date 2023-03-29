@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure) - Converts Java .nbt files to Bedrock .mcstructure files
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Update 1.1](https://github.com/SmokeyStack/smokey_skyblock/pull/2) on [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock)
 - [Updated structures to use block data](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/4) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Offsets and loot tables](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/3) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Block Data](https://github.com/JaylyDev/nbt-to-mcstructure/pull/3) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
 - [Hotfix for structures!](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/2) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
-- [Updated types](https://github.com/JaylyDev/nbt-to-mcstructure/pull/1) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
 
 ### ⭐ Recent Stars
 
