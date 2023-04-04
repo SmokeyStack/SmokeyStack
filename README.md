@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 - [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 
 ### 🔨 My recent Pull Requests
 
+- [Updated vanilla registry](https://github.com/SmokeyStack/adk/pull/26) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
+- [Added stonecutter recipe](https://github.com/SmokeyStack/adk/pull/25) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Update 1.1](https://github.com/SmokeyStack/smokey_skyblock/pull/2) on [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock)
 - [Updated structures to use block data](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/4) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 - [Offsets and loot tables](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/3) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
-- [Block Data](https://github.com/JaylyDev/nbt-to-mcstructure/pull/3) on [JaylyDev/nbt-to-mcstructure](https://github.com/JaylyDev/nbt-to-mcstructure)
-- [Hotfix for structures!](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/2) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 
 ### ⭐ Recent Stars
 
