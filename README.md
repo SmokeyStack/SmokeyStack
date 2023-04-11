@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [First init of blocks rewrite](https://github.com/Bedrock-OSS/bedrock-wiki/pull/623) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Updated vanilla registry](https://github.com/SmokeyStack/adk/pull/26) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added stonecutter recipe](https://github.com/SmokeyStack/adk/pull/25) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Update 1.1](https://github.com/SmokeyStack/smokey_skyblock/pull/2) on [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock)
 - [Updated structures to use block data](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/4) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
-- [Offsets and loot tables](https://github.com/DarkGamerYT/Bedrock-Editor-Extension/pull/3) on [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension)
 
 ### ⭐ Recent Stars
 
