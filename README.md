@@ -15,8 +15,8 @@
 
 ### 🔭 I’m currently working on
 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 - [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
