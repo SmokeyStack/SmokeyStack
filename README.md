@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [Luminoso-256/legends_template](https://github.com/Luminoso-256/legends_template) - 
 - [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
 - [Mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) - Minecraft Editor is in early development. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock.
 - [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
 - [engineerd/configurator](https://github.com/engineerd/configurator) - Cross-platform GitHub Action to download, extract, and add to path statically compiled tools
-- [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
