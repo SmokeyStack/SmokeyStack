@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [LegendsModdingCommunity/ModdingDocs](https://github.com/LegendsModdingCommunity/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 
 ### 🔨 My recent Pull Requests
 
