@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [reedacartwright/mcberepair](https://github.com/reedacartwright/mcberepair) - A maintance toolset for Minecraft: Bedrock Edition world databases.
+- [mmccoo/minecraft_mmccoo](https://github.com/mmccoo/minecraft_mmccoo) - some code for parsing and analyzing Minecraft Bedrock leveldb data
+- [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
+- [bedrock-viz/bedrock-viz](https://github.com/bedrock-viz/bedrock-viz) - Minecraft Bedrock Edition World Visualization &amp; Reporting Tool with Web App
 - [Luminoso-256/legends_template](https://github.com/Luminoso-256/legends_template) - 
-- [DarkGamerYT/Bedrock-Editor-Extension](https://github.com/DarkGamerYT/Bedrock-Editor-Extension) - 
-- [Mojang/minecraft-editor](https://github.com/Mojang/minecraft-editor) - Minecraft Editor is in early development. It is an in-engine, multiblock editing experience focused on making it possible for creators of all skillsets to easily craft high-quality experiences in Bedrock.
-- [misode/deepslate](https://github.com/misode/deepslate) - Library for rendering and emulating parts of Minecraft
-- [engineerd/configurator](https://github.com/engineerd/configurator) - Cross-platform GitHub Action to download, extract, and add to path statically compiled tools
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
