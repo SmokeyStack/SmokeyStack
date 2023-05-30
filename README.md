@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Adds proper mentions](https://github.com/Bedrock-OSS/bedrock-wiki/pull/653) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Added zhea pack](https://github.com/Bedrock-OSS/wiki-addon/pull/19) on [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon)
 - [First init of blocks rewrite](https://github.com/Bedrock-OSS/bedrock-wiki/pull/623) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Updated vanilla registry](https://github.com/SmokeyStack/adk/pull/26) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added stonecutter recipe](https://github.com/SmokeyStack/adk/pull/25) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Update 1.1](https://github.com/SmokeyStack/smokey_skyblock/pull/2) on [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock)
 
 ### ⭐ Recent Stars
 
