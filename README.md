@@ -15,8 +15,8 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
 - [SmokeyStack/accessible-architecture](https://github.com/SmokeyStack/accessible-architecture) - This is a Myth that loads a flat world for you to load all the structures found in the vanilla game. **Works on Windows only!**
