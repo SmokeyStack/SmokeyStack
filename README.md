@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
 - [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
-- [SmokeyStack/accessible-architecture](https://github.com/SmokeyStack/accessible-architecture) - This is a Myth that loads a flat world for you to load all the structures found in the vanilla game. **Works on Windows only!**
 
 ### 🔨 My recent Pull Requests
 
+- [Converted inheritance to composition](https://github.com/SmokeyStack/adk/pull/27) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Adds proper mentions](https://github.com/Bedrock-OSS/bedrock-wiki/pull/653) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Added zhea pack](https://github.com/Bedrock-OSS/wiki-addon/pull/19) on [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon)
 - [First init of blocks rewrite](https://github.com/Bedrock-OSS/bedrock-wiki/pull/623) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Updated vanilla registry](https://github.com/SmokeyStack/adk/pull/26) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Added stonecutter recipe](https://github.com/SmokeyStack/adk/pull/25) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
