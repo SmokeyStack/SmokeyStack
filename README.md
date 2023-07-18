@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
 
 ### 🔨 My recent Pull Requests
 
@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [Mojang/minecraft-legends-docs](https://github.com/Mojang/minecraft-legends-docs) - Houses public-facing documentation of content formats for Minecraft Legends
 - [reedacartwright/mcberepair](https://github.com/reedacartwright/mcberepair) - A maintance toolset for Minecraft: Bedrock Edition world databases.
 - [mmccoo/minecraft_mmccoo](https://github.com/mmccoo/minecraft_mmccoo) - some code for parsing and analyzing Minecraft Bedrock leveldb data
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 - [bedrock-viz/bedrock-viz](https://github.com/bedrock-viz/bedrock-viz) - Minecraft Bedrock Edition World Visualization &amp; Reporting Tool with Web App
-- [Luminoso-256/legends_template](https://github.com/Luminoso-256/legends_template) - 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
