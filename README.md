@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [2023 Scripting and Editor QnA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/728) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Fixed BlockState issue, removed echo, changed object creation](https://github.com/SmokeyStack/adk/pull/29) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactored codebase](https://github.com/SmokeyStack/adk/pull/28) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Issue 9](https://github.com/LegendsModding/ModdingDocs/pull/10) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
 - [Converted inheritance to composition](https://github.com/SmokeyStack/adk/pull/27) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Adds proper mentions](https://github.com/Bedrock-OSS/bedrock-wiki/pull/653) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
