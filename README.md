@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
-- [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Ported AMA from Discord](https://github.com/LegendsModding/ModdingDocs/pull/12) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
 - [2023 Scripting and Editor QnA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/728) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Fixed BlockState issue, removed echo, changed object creation](https://github.com/SmokeyStack/adk/pull/29) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactored codebase](https://github.com/SmokeyStack/adk/pull/28) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Issue 9](https://github.com/LegendsModding/ModdingDocs/pull/10) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
-- [Converted inheritance to composition](https://github.com/SmokeyStack/adk/pull/27) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
