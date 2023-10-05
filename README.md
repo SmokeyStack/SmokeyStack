@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
-- [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
 
 ### 🔨 My recent Pull Requests
 
+- [Updated queries and fixed GlobalRegistry](https://github.com/SmokeyStack/adk/pull/31) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
+- [Added Language builder and update global registry](https://github.com/SmokeyStack/adk/pull/30) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Ported AMA from Discord](https://github.com/LegendsModding/ModdingDocs/pull/12) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
 - [2023 Scripting and Editor QnA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/728) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Fixed BlockState issue, removed echo, changed object creation](https://github.com/SmokeyStack/adk/pull/29) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Refactored codebase](https://github.com/SmokeyStack/adk/pull/28) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Issue 9](https://github.com/LegendsModding/ModdingDocs/pull/10) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
 
 ### ⭐ Recent Stars
 
