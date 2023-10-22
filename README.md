@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
-- [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Refactored](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/6) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Updated queries and fixed GlobalRegistry](https://github.com/SmokeyStack/adk/pull/31) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added Language builder and update global registry](https://github.com/SmokeyStack/adk/pull/30) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Ported AMA from Discord](https://github.com/LegendsModding/ModdingDocs/pull/12) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
 - [2023 Scripting and Editor QnA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/728) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [Fixed BlockState issue, removed echo, changed object creation](https://github.com/SmokeyStack/adk/pull/29) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
