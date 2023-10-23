@@ -23,11 +23,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Refactor](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/7) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Refactored](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/6) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Updated queries and fixed GlobalRegistry](https://github.com/SmokeyStack/adk/pull/31) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added Language builder and update global registry](https://github.com/SmokeyStack/adk/pull/30) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Ported AMA from Discord](https://github.com/LegendsModding/ModdingDocs/pull/12) on [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs)
-- [2023 Scripting and Editor QnA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/728) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
