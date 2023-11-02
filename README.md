@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/smokey_bedrock](https://github.com/SmokeyStack/smokey_bedrock) - 
-- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 
 ### 🔨 My recent Pull Requests
 
@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [Mojang/legends-blockbench-plugin](https://github.com/Mojang/legends-blockbench-plugin) - Blockbench plugin for exporting Minecraft Legends content
 - [Mojang/minecraft-legends-docs](https://github.com/Mojang/minecraft-legends-docs) - Houses public-facing documentation of content formats for Minecraft Legends
 - [reedacartwright/mcberepair](https://github.com/reedacartwright/mcberepair) - A maintance toolset for Minecraft: Bedrock Edition world databases.
 - [mmccoo/minecraft_mmccoo](https://github.com/mmccoo/minecraft_mmccoo) - some code for parsing and analyzing Minecraft Bedrock leveldb data
 - [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
-- [bedrock-viz/bedrock-viz](https://github.com/bedrock-viz/bedrock-viz) - Minecraft Bedrock Edition World Visualization &amp; Reporting Tool with Web App
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
