@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
+- [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 - [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
 - [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [SmokeyStack/smokey_gen](https://github.com/SmokeyStack/smokey_gen) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Merge Village Parser to GUI](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/8) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [First Release](https://github.com/SmokeyStack/smokey_bedrock/pull/15) on [SmokeyStack/smokey_bedrock](https://github.com/SmokeyStack/smokey_bedrock)
 - [Refactor](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/7) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Refactored](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/6) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Updated queries and fixed GlobalRegistry](https://github.com/SmokeyStack/adk/pull/31) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Added Language builder and update global registry](https://github.com/SmokeyStack/adk/pull/30) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
