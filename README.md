@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser) - Program to read Minecraft Bedrock&#39;s database
-- [SmokeyStack/smokey_skyblock](https://github.com/SmokeyStack/smokey_skyblock) - A skyblock add-on for Minecraft Bedrock
 
 ### 🔨 My recent Pull Requests
 
