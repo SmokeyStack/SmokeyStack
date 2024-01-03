@@ -16,18 +16,18 @@
 ### 🔭 I’m currently working on
 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
-- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
+- [SmokeyStack/pocket-mobs](https://github.com/SmokeyStack/pocket-mobs) - 
+- [SmokeyStack/SmokeyStack.github.io](https://github.com/SmokeyStack/SmokeyStack.github.io) - My website
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 
 ### 🔨 My recent Pull Requests
 
+- [Added JsonToNBT](https://github.com/SmokeyStack/SmokeyBedrockParser-Core/pull/1) on [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core)
 - [Refactor](https://github.com/SmokeyStack/adk/pull/33) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactor](https://github.com/SmokeyStack/adk/pull/32) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Opengl](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/10) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 - [Program now logs each block and their position in a chunk](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/9) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
-- [Merge Village Parser to GUI](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/8) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 
 ### ⭐ Recent Stars
 
