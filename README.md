@@ -15,8 +15,8 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/pocket-mobs](https://github.com/SmokeyStack/pocket-mobs) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
