@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **C++, React, Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SmokeyStack?tab=repositories](https://github.com/SmokeyStack?tab=repositories)
+- 👨‍💻 All of my projects are available at https://smokeystack.dev/projects
 
-- 📝 I occasionally write articles on [https://smokeystack.github.io/blog/](https://smokeystack.github.io/blog/)
+- 📝 I occasionally write articles on https://smokeystack.dev/blog
 
-- 📫 How to reach me: **[My links](https://smokeystack.github.io/about/links.html)**
+- 📫 How to reach me: https://smokeystack.dev/about
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/pocket-mobs](https://github.com/SmokeyStack/pocket-mobs) - 
-- [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 
 ### 🔨 My recent Pull Requests
 
