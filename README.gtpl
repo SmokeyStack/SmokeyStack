@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C++, React, Vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SmokeyStack?tab=repositories](https://github.com/SmokeyStack?tab=repositories)
+- 👨‍💻 All of my projects are available at https://smokeystack.dev/projects
 
-- 📝 I occasionally write articles on [https://smokeystack.github.io/blog/](https://smokeystack.github.io/blog/)
+- 📝 I occasionally write articles on https://smokeystack.dev/blog
 
-- 📫 How to reach me: **[My links](https://smokeystack.github.io/about/links.html)**
+- 📫 How to reach me: https://smokeystack.dev/about
 
 ### 🔭 I’m currently working on
 {{ range recentContributions 5 }}
