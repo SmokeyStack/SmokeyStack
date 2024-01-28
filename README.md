@@ -15,19 +15,19 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/pocket-mobs](https://github.com/SmokeyStack/pocket-mobs) - 
 
 ### 🔨 My recent Pull Requests
 
+- [Update Items](https://github.com/Bedrock-OSS/bedrock-wiki/pull/798) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Added JsonToNBT](https://github.com/SmokeyStack/SmokeyBedrockParser-Core/pull/1) on [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core)
 - [Refactor](https://github.com/SmokeyStack/adk/pull/33) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactor](https://github.com/SmokeyStack/adk/pull/32) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Opengl](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/10) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
-- [Program now logs each block and their position in a chunk](https://github.com/SmokeyStack/SmokeyBedrockParser/pull/9) on [SmokeyStack/SmokeyBedrockParser](https://github.com/SmokeyStack/SmokeyBedrockParser)
 
 ### ⭐ Recent Stars
 
