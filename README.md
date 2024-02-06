@@ -31,11 +31,11 @@
 
 ### ⭐ Recent Stars
 
+- [FrederoxDev/Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c&#43;&#43; modding for MCBE 1.20.51.1 for building client side mods
 - [Mojang/legends-blockbench-plugin](https://github.com/Mojang/legends-blockbench-plugin) - Blockbench plugin for exporting Minecraft Legends content
 - [Mojang/minecraft-legends-docs](https://github.com/Mojang/minecraft-legends-docs) - Houses public-facing documentation of content formats for Minecraft Legends
 - [reedacartwright/mcberepair](https://github.com/reedacartwright/mcberepair) - A maintance toolset for Minecraft: Bedrock Edition world databases.
 - [mmccoo/minecraft_mmccoo](https://github.com/mmccoo/minecraft_mmccoo) - some code for parsing and analyzing Minecraft Bedrock leveldb data
-- [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - A new Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
