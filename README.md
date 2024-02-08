@@ -16,10 +16,10 @@
 ### 🔭 I’m currently working on
 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch) - Unity game developed by GADIG at GMU, Spring 2024.
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [SmokeyStack/pocket-mobs](https://github.com/SmokeyStack/pocket-mobs) - 
 
 ### 🔨 My recent Pull Requests
 
