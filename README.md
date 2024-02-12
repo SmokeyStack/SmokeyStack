@@ -16,10 +16,10 @@
 ### 🔭 I’m currently working on
 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
 - [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch) - Unity game developed by GADIG at GMU, Spring 2024.
-- [SmokeyStack/SmokeyBedrockParser-Core](https://github.com/SmokeyStack/SmokeyBedrockParser-Core) - 
 
 ### 🔨 My recent Pull Requests
 
