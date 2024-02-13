@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
 - [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch) - Unity game developed by GADIG at GMU, Spring 2024.
 
 ### 🔨 My recent Pull Requests
 
