@@ -16,10 +16,10 @@
 ### 🔭 I’m currently working on
 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
-- [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 
 ### 🔨 My recent Pull Requests
 
