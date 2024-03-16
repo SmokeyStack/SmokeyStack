@@ -15,9 +15,9 @@
 
 ### 🔭 I’m currently working on
 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch) - Unity game developed by GADIG at GMU, Spring 2024.
 
