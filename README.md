@@ -15,11 +15,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/news-vite](https://github.com/SmokeyStack/news-vite) - 
+- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch) - Unity game developed by GADIG at GMU, Spring 2024.
 
 ### 🔨 My recent Pull Requests
 
@@ -31,7 +31,7 @@
 
 ### ⭐ Recent Stars
 
-- [FrederoxDev/Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c&#43;&#43; modding for MCBE 1.20.51.1 for building client side mods
+- [FrederoxDev/Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c&#43;&#43; modding for MCBE 1.20.71.1 for building client side mods
 - [Mojang/legends-blockbench-plugin](https://github.com/Mojang/legends-blockbench-plugin) - Blockbench plugin for exporting Minecraft Legends content
 - [Mojang/minecraft-legends-docs](https://github.com/Mojang/minecraft-legends-docs) - Houses public-facing documentation of content formats for Minecraft Legends
 - [reedacartwright/mcberepair](https://github.com/reedacartwright/mcberepair) - A maintance toolset for Minecraft: Bedrock Edition world databases.
