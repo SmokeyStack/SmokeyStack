@@ -19,19 +19,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 
 ### 🔨 My recent Pull Requests
 
+- [Emissive](https://github.com/SmokeyStack/smokey_pbr/pull/2) on [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr)
 - [Holiday Creator Features Rewrite](https://github.com/Bedrock-OSS/bedrock-wiki/pull/835) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Refactor](https://github.com/SmokeyStack/adk/pull/34) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added Graphics QNA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/810) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Added melee damage](https://github.com/gmuGADIG/Fruit-Punch/pull/69) on [gmuGADIG/Fruit-Punch](https://github.com/gmuGADIG/Fruit-Punch)
-- [1.20.70.22](https://github.com/SmokeyStack/smokey_pbr/pull/1) on [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr)
 
 ### ⭐ Recent Stars
 
