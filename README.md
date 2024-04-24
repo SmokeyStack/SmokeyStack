@@ -19,11 +19,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [LegendsModding/ModdingDocs](https://github.com/LegendsModding/ModdingDocs) - A place to view known documentation for modding the popular game Minecraft: Legends.
 
 ### 🔨 My recent Pull Requests
 
