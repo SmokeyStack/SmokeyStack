@@ -19,19 +19,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 
 ### 🔨 My recent Pull Requests
 
+- [Progress Update](https://github.com/SmokeyStack/adk/pull/37) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Huge Update!](https://github.com/SmokeyStack/smokey_pbr/pull/3) on [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr)
 - [Added Armour Class](https://github.com/SmokeyStack/adk/pull/36) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Refactored Item Class](https://github.com/SmokeyStack/adk/pull/35) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Emissive](https://github.com/SmokeyStack/smokey_pbr/pull/2) on [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr)
-- [Holiday Creator Features Rewrite](https://github.com/Bedrock-OSS/bedrock-wiki/pull/835) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
