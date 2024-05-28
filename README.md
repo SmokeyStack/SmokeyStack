@@ -19,11 +19,11 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
+- [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 
 ### 🔨 My recent Pull Requests
 
