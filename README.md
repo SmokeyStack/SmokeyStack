@@ -23,7 +23,7 @@
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/MCScripts](https://github.com/SmokeyStack/MCScripts) - Various Scripts used for Minecraft, including Regolith filters
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 
 ### 🔨 My recent Pull Requests
 
