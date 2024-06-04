@@ -19,19 +19,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 
 ### 🔨 My recent Pull Requests
 
+- [Updated linter](https://github.com/Bedrock-OSS/bedrock-wiki/pull/868) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Small change](https://github.com/SmokeyStack/adk/pull/40) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Small change](https://github.com/SmokeyStack/adk/pull/39) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added Language Builder](https://github.com/SmokeyStack/adk/pull/38) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Progress Update](https://github.com/SmokeyStack/adk/pull/37) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
-- [Huge Update!](https://github.com/SmokeyStack/smokey_pbr/pull/3) on [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr)
 
 ### ⭐ Recent Stars
 
