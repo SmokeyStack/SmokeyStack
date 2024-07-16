@@ -19,19 +19,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [SmokeyStack/auxval-to-blockstates](https://github.com/SmokeyStack/auxval-to-blockstates) - This website was created to convert aux value to block states
-- [SmokeyStack/adk](https://github.com/SmokeyStack/adk) - Create add-ons using C&#43;&#43;. No more using JSON
 
 ### 🔨 My recent Pull Requests
 
+- [Refactor](https://github.com/SmokeyStack/adk/pull/44) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
+- [Refactor](https://github.com/SmokeyStack/adk/pull/43) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Dev](https://github.com/SmokeyStack/adk/pull/42) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added Candles](https://github.com/SmokeyStack/adk/pull/41) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 - [Added NPM Workspaces](https://github.com/SmokeyStack/adk-lib/pull/1) on [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib)
-- [Updated linter](https://github.com/Bedrock-OSS/bedrock-wiki/pull/868) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [Small change](https://github.com/SmokeyStack/adk/pull/40) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
