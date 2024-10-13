@@ -64,7 +64,7 @@
     <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/asset-library/assets/logo.svg" alt="godot" width="40" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
     <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40" />
+        <img src="https://vuepress.vuejs.org/images/hero.png" alt="vuepress" width="40" height="40" />
     </a>
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
 </p>
