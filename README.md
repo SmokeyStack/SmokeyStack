@@ -27,11 +27,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [SQL Implementation](https://github.com/SmokeyStack/tag-stack/pull/1) on [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack)
 - [Table Component](https://github.com/Bedrock-OSS/bedrock-wiki/pull/959) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [World Gen QNA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/942) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Mermaid](https://github.com/Bedrock-OSS/bedrock-wiki/pull/910) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [Moved qnas](https://github.com/Bedrock-OSS/bedrock-wiki/pull/902) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [Updated Block Property Handling](https://github.com/SmokeyStack/adk/pull/45) on [SmokeyStack/adk](https://github.com/SmokeyStack/adk)
 
 ### ⭐ Recent Stars
 
