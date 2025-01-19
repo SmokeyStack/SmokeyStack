@@ -19,11 +19,11 @@
 
 ### 🔭 I’m currently working on
 
-- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
+- [SmokeyStack/bao-thread-manager](https://github.com/SmokeyStack/bao-thread-manager) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 - [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
-- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 
 ### 🔨 My recent Pull Requests
 
