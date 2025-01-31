@@ -19,9 +19,9 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-protocol-wiki](https://github.com/Bedrock-OSS/bedrock-protocol-wiki) - 
 - [SmokeyStack/bao-thread-manager](https://github.com/SmokeyStack/bao-thread-manager) - 
-- [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - Rewrite of the Bedrock Wiki.
 - [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 
