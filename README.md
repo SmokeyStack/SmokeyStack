@@ -19,11 +19,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/bedrock-protocol-wiki](https://github.com/Bedrock-OSS/bedrock-protocol-wiki) - 
 - [SmokeyStack/bao-thread-manager](https://github.com/SmokeyStack/bao-thread-manager) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - This wiki is a knowledge-sharing website for Minecraft Bedrock Add-Ons, containing documentation, tutorials, and general how-to information.
-- [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 
 ### 🔨 My recent Pull Requests
 
