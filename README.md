@@ -19,19 +19,19 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
+- [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
 - [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki) - This wiki is a knowledge-sharing website for Minecraft Bedrock Add-Ons, containing documentation, tutorials, and general how-to information.
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 
 ### 🔨 My recent Pull Requests
 
+- [ShadcnVue v2.0.1](https://github.com/SmokeyStack/tag-stack/pull/3) on [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack)
 - [Image DB](https://github.com/SmokeyStack/tag-stack/pull/2) on [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack)
 - [SQL Implementation](https://github.com/SmokeyStack/tag-stack/pull/1) on [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack)
 - [Table Component](https://github.com/Bedrock-OSS/bedrock-wiki/pull/959) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 - [World Gen QNA](https://github.com/Bedrock-OSS/bedrock-wiki/pull/942) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
-- [Mermaid](https://github.com/Bedrock-OSS/bedrock-wiki/pull/910) on [Bedrock-OSS/bedrock-wiki](https://github.com/Bedrock-OSS/bedrock-wiki)
 
 ### ⭐ Recent Stars
 
