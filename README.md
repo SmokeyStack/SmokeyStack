@@ -19,8 +19,8 @@
 
 ### 🔭 I’m currently working on
 
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
+- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
 - [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 - [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
