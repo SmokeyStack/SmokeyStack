@@ -19,11 +19,11 @@
 
 ### 🔭 I’m currently working on
 
+- [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
+- [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
+- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
 - [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
-- [SmokeyStack/adk-lib](https://github.com/SmokeyStack/adk-lib) - An add-on library for Minecraft: Bedrock
-- [SmokeyStack/bao-faq-bot](https://github.com/SmokeyStack/bao-faq-bot) - This discord bot was created for the purpose of making a FAQ bot for the Bedrock Add-Ons Discord Server.
-- [SmokeyStack/tag-stack](https://github.com/SmokeyStack/tag-stack) - 
 
 ### 🔨 My recent Pull Requests
 
