@@ -23,7 +23,7 @@
 - [SmokeyStack/adk-scripts](https://github.com/SmokeyStack/adk-scripts) - 
 - [SmokeyStack/smokey_pbr](https://github.com/SmokeyStack/smokey_pbr) - 
 - [SmokeyStack/versiondb](https://github.com/SmokeyStack/versiondb) - 
-- [Bedrock-OSS/wiki-addon](https://github.com/Bedrock-OSS/wiki-addon) - Contains example Addons for tutorials on the Bedrock Wiki. 
+- [Bedrock-OSS/bedrock-examples](https://github.com/Bedrock-OSS/bedrock-examples) - Contains example Addons for tutorials on the Bedrock Wiki. 
 
 ### 🔨 My recent Pull Requests
 
